@@ -2,6 +2,9 @@
 
 This repository serves as a foundational template for building Node.js applications using the Express.js framework following the Model-View-Controller (MVC) architectural pattern. It provides a structured and organized foundation for developing scalable and maintainable web applications.
 
+# Note
+Data Stored in json file 
+
 ## Features
 
 Express.js Framework: Built on top of Express.js, a fast, unopinionated, minimalist web framework for Node.js.
