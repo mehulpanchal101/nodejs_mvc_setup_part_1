@@ -1,9 +1,10 @@
-# Express.js MVC Boilerplate (Practice Example 1)
+# Express.js MVC Boilerplate for E-Commerce Site(Practice Example 1)
 
 This repository serves as a foundational template for building Node.js applications using the Express.js framework following the Model-View-Controller (MVC) architectural pattern. It provides a structured and organized foundation for developing scalable and maintainable web applications.
 
 ### Note
-Data Stored in json file 
+
+Data Stored in json file
 
 ## Features
 
